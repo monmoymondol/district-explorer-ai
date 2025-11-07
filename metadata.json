@@ -1,0 +1,7 @@
+{
+  "name": "District Explorer AI",
+  "description": "Discover custom features in your local district. Describe what you're looking for, and AI will generate a personalized mini-map of relevant places using Google Maps data.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
